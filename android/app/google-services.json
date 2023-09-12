@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1072960341366",
+    "project_id": "ua-test-e5a77",
+    "storage_bucket": "ua-test-e5a77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072960341366:android:a856003a300826ce726657",
+        "android_client_info": {
+          "package_name": "com.rnclevertap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072960341366-3unbfiolre058qko8g899jqqedsn7hf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiPSBoMTl0exjkRiGCXOd7LJrKnHEWF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072960341366-3unbfiolre058qko8g899jqqedsn7hf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072960341366-23fk9f4209jpj78s3q8nde2joqvqgl6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upgrad.studyabroad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072960341366:android:bebd671842f5c048726657",
+        "android_client_info": {
+          "package_name": "com.upgrad.studyabroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072960341366-3unbfiolre058qko8g899jqqedsn7hf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiPSBoMTl0exjkRiGCXOd7LJrKnHEWF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072960341366-3unbfiolre058qko8g899jqqedsn7hf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072960341366-23fk9f4209jpj78s3q8nde2joqvqgl6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upgrad.studyabroad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
